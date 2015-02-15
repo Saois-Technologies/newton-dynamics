@@ -17,4 +17,5 @@ See `LICENSE` for the full content of the licenses.
 Authors
 =======
 Newton Dynamics is a project of Julio Jerez and Alain Suero. See `AUTHORS` for a full list of contributors.
+FallenApple Physics Engine is a project of Saois Technologies. See `FA-AUTHORS` for a full list of contributors to the FallenApple PE 
 
